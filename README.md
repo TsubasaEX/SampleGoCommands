@@ -17,3 +17,8 @@ This is a list of useful GO commands.
    ```
   go clean -modcache
   ```
+- Tidy makes sure go.mod matches the source code in the module. It adds any missing modules necessary to build the current module's packages and dependencies, and it removes unused modules that don't provide any relevant packages. It also adds any missing entries to go.sum and removes any unnecessary ones. The -v flag causes tidy to print information about removed modules to standard error.
+   ```
+  go mod tidy
+  go mod tidy -v 
+  ```
