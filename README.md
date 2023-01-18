@@ -29,4 +29,5 @@ References
     - GO
     - Git History
     - GitLens
+    - TabNine
 
