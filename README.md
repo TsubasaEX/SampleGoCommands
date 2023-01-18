@@ -22,3 +22,11 @@ This is a list of useful GO commands.
   go mod tidy
   go mod tidy -v 
   ```
+  
+References
+- VSCODE
+  - Extensions
+    - GO
+    - Git History
+    - GitLens
+
