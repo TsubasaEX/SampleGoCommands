@@ -39,8 +39,12 @@ References
   - Commands
     - **Prompt Command Line**
       - Ctrl + Shift + P 
-    - **Fold ALL**
+    - **Fold ALL Code Block**
       - Ctrl + Shift + K + 0
-    - **UnFold ALL**
+    - **Fold ALL Code To Level 1**
+      - Ctrl + Shift + K + 1
+    - **Fold ALL Code To Level 2**
+      - Ctrl + Shift + K + 2
+    - **UnFold ALL Code Block**
       - Ctrl + Shift + K + J    
 
