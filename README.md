@@ -27,10 +27,14 @@ References
 - VSCODE
   - Extensions
     - GO
-    - Git History
-    - GitLens
-    - TabNine
-    - SQl Server Client(mssql)
+    - Git
+      - Git History
+      - GitLens
+    - Auto Completed Code
+    -   TabNine
+    - Database
+      - SQl Server Client(mssql)
+      - Database Client
   - Commands
     - Prompt Command Line
       - Ctrl + Shift + P 
