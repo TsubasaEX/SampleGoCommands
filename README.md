@@ -30,4 +30,11 @@ References
     - Git History
     - GitLens
     - TabNine
+  - Commands
+    - Prompt Command Line
+      - Ctrl + Shift + P 
+    - Fold ALL
+      - Ctrl + Shift + K + 0
+    - UnFold ALL
+      - Ctrl + Shift + K + J    
 
