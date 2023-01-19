@@ -26,20 +26,21 @@ This is a list of useful GO commands.
 References
 - VSCODE
   - Extensions
-    - GO
-    - Git
+    - **Language**
+      - GO 
+    - **Git**
       - Git History
       - GitLens
-    - Auto Completed Code
-    -   TabNine
-    - Database (SQL + NoSQL)
+    - **Auto Completed Code**
+      - TabNine
+    - **Database (SQL + NoSQL)**
       - SQl Server Client(mssql)
       - Database Client
   - Commands
-    - Prompt Command Line
+    - **Prompt Command Line**
       - Ctrl + Shift + P 
-    - Fold ALL
+    - **Fold ALL**
       - Ctrl + Shift + K + 0
-    - UnFold ALL
+    - **UnFold ALL**
       - Ctrl + Shift + K + J    
 
