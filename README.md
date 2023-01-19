@@ -32,7 +32,7 @@ References
       - GitLens
     - Auto Completed Code
     -   TabNine
-    - Database
+    - Database (SQL + NoSQL)
       - SQl Server Client(mssql)
       - Database Client
   - Commands
