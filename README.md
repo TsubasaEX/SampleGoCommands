@@ -30,6 +30,7 @@ References
     - Git History
     - GitLens
     - TabNine
+    - SQl Server Client(mssql)
   - Commands
     - Prompt Command Line
       - Ctrl + Shift + P 
