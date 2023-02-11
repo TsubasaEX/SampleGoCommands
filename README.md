@@ -36,6 +36,8 @@ References
     - **Database (SQL + NoSQL)**
       - SQl Server Client(mssql)
       - Database Client
+    - **Remote SSH Debug**
+      - Remote SSH
   - Commands
     - **Prompt Command Line**
       - Ctrl + Shift + P 
