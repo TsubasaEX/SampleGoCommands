@@ -38,6 +38,10 @@ References
       - Database Client
     - **Remote SSH Debug**
       - Remote SSH
+    - **Reveal current file in Explorer**
+      - Reveal
+    - **Show External Libraris**
+      - Go Mod Explorer
   - Commands
     - **Prompt Command Line**
       - Ctrl + Shift + P 
