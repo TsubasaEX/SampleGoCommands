@@ -53,4 +53,11 @@ References
       - Ctrl + Shift + K + 2
     - **UnFold ALL Code Block**
       - Ctrl + Shift + K + J    
-
+    - **Open Terminal**
+      - Ctrl + `
+    - **Go To Implementation**
+      - Ctrl + F12
+    - **Backward After "Go To Implementation"**
+      - Alt + <-
+    - **Forward After "Backward"**
+      - Alt + ->
